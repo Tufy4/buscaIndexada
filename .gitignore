@@ -1,0 +1,5 @@
+# Ignorar arquivos de configurações do Visual Studio Code
+.vscode/
+
+# Ignorar executáveis na pasta output
+output/*.exe
