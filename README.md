@@ -13,7 +13,7 @@ Tufy e Miguel Henrique
 ## Descrição 🗒️
 O objetivo desse projeto é aprender mais sobre o método de busca com índices. 
 <p>Através do desenvolvimento do trabalho observamos a diferença na eficiência de um código bem feito e estruturado para um outro menos elaborado!</p>
-<p>Fizemos 3 tipos de busca para testar a eficiência do código. O primeiro tipo foi realizado com o método bubble sort, o 2º realizado com o método com tabela de índice (apenas uma tabela) e o 3º com duas tabelas, diminuindo o tempo de excecução!</p>
+<p>Fizemos 3 tipos de busca para testar a eficiência do código. O primeiro tipo foi realizado sem nenhum método, o 2º realizado com o método com tabela de índice (apenas uma tabela) e o 3º com duas tabelas, diminuindo o tempo de excecução!</p>
 
 <br>
 
